@@ -1,0 +1,7 @@
+.font {
+  font: Helvetica;
+  font-size: 36px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
